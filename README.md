@@ -4,9 +4,9 @@
 
 ## Try to keep Ɛden alive (you need [git](https://git-scm.com/) and [npm](https://www.npmjs.com/)) !
 
-`git clone https://github.com/JNBourrat/Hackathon-ecolocool.git`
+`git clone https://github.com/JNBourrat/eden-hackathon.git`
 
-`cd Hackathon-ecolocool/eden/`
+`cd eden-hackathon/eden/`
 
 `npm install`
 
