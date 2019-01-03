@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/eden-hackathon/precache-manifest.ab387d6326538859e0c805d8c0843f72.js"
+  "/eden-hackathon/precache-manifest.5cc269fdd817cdbb8d6b4dd0bb50f5eb.js"
 );
 
 workbox.clientsClaim();
