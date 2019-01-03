@@ -2,8 +2,6 @@
 
 ![Ɛden logo](https://i.imgur.com/FbXSn59.png)
 
-Dev team : [Kapucine Nielsen](https://github.com/kapucinenielsen), [Philipp Elsässer](https://github.com/PhilippElsaesser), [Jeffrey Gerbe](https://github.com/yoshimitsutekken4) & [Florent Pericoz](https://github.com/perticoz)
-
 ## Try to keep Ɛden alive (you need [git](https://git-scm.com/) and [npm](https://www.npmjs.com/)) !
 
 `git clone https://github.com/JNBourrat/Hackathon-ecolocool.git`
@@ -13,4 +11,6 @@ Dev team : [Kapucine Nielsen](https://github.com/kapucinenielsen), [Philipp Els�
 `npm install`
 
 `npm start`
+
+Dev team : [Kapucine Nielsen](https://github.com/kapucinenielsen), [Philipp Elsässer](https://github.com/PhilippElsaesser), [Jeffrey Gerbe](https://github.com/yoshimitsutekken4) & [Florent Pericoz](https://github.com/perticoz)
 
