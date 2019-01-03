@@ -13,4 +13,3 @@
 `npm start`
 
 Dev team : [Kapucine Nielsen](https://github.com/kapucinenielsen), [Philipp Elsässer](https://github.com/PhilippElsaesser), [Jeffrey Gerbe](https://github.com/yoshimitsutekken4) & [Florent Pericoz](https://github.com/perticoz)
-
