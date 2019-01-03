@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1b5c5c6daf906054a9a6",
+    "revision": "88ec04a96923dee6ed8d",
     "url": "/eden-hackathon/static/css/main.197703b8.chunk.css"
   },
   {
-    "revision": "1b5c5c6daf906054a9a6",
-    "url": "/eden-hackathon/static/js/main.1b5c5c6d.chunk.js"
+    "revision": "88ec04a96923dee6ed8d",
+    "url": "/eden-hackathon/static/js/main.88ec04a9.chunk.js"
   },
   {
     "revision": "89b69bc4bc46e67c096f",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/eden-hackathon/static/media/logo.c6accc0e.png"
   },
   {
-    "revision": "24ff41a57bac34d881665a7296d35279",
+    "revision": "78eed3212eb11742320647c004b35bf4",
     "url": "/eden-hackathon/index.html"
   }
 ];
