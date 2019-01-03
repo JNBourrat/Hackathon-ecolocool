@@ -8,7 +8,7 @@ class Heading extends Component {
   render() {
     return (
       <div>
-            <NavLink to="/"><div className="backbutton"><FaChevronLeft /></div></NavLink>
+            <NavLink to="/eden-hackathon"><div className="backbutton"><FaChevronLeft /></div></NavLink>
             <h1>Eden</h1>
       </div>
     )

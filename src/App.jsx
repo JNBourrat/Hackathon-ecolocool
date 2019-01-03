@@ -10,8 +10,8 @@ class App extends Component {
       <div className="App">
         <BrowserRouter>
           <Switch>
-            <Route exact path="/" component={HomePage} />
-            <Route path="/boardgame" component={BoardGame} />
+            <Route exact path="/eden-hackathon" component={HomePage} />
+            <Route path="/eden-hackathon/boardgame" component={BoardGame} />
           </Switch>
         </BrowserRouter>
       </div>

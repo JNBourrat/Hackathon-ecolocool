@@ -8,7 +8,7 @@ class ButtonYesNo extends Component {
     render() {
         return (
             <div>
-                <NavLink to="/boardgame"><Button className="button-home">C'est parti !</Button></NavLink>
+                <NavLink to="/eden-hackathon/boardgame"><Button className="button-home">C'est parti !</Button></NavLink>
             </div>
         );
     }
